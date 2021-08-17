@@ -1,4 +1,14 @@
-# inspiracaoes https://kodestat.gitbook.io/flutter/flutter-horizontal-listview-and-tabs
+# Flutter CheckBoxes_Demo
+
+Building a CheckBoxes in Flutter.
+
+### Screenshots
+
+<img src="chech1.png" height="300em" /> <img src="chech2.png" height="300em" />
+
+### Inspiracaoes 
+
+https://kodestat.gitbook.io/flutter/flutter-horizontal-listview-and-tabs
 
 A new Flutter project.
 
