@@ -6,7 +6,7 @@ Building a CheckBoxes in Flutter.
 
 <img src="check1.png" height="500em" /> <img src="check2.png" height="500em" />
 
-### Inspiracaoes 
+### Inspiration
 
 https://kodestat.gitbook.io/flutter/flutter-horizontal-listview-and-tabs
 
