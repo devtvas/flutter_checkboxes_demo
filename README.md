@@ -4,7 +4,7 @@ Building a CheckBoxes in Flutter.
 
 ### Screenshots
 
-<img src="chech1.png" height="500em" /> <img src="chech2.png" height="500em" />
+<img src="check1.png" height="500em" /> <img src="check2.png" height="500em" />
 
 ### Inspiracaoes 
 
